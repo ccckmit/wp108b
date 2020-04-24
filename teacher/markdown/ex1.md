@@ -26,9 +26,11 @@
   2. 三七
   3. 二十一
 
-[連結](http://example.com)
+[http://example.com](http://example.com)
 
-![圖](Icon-pictures.png "icon")
+![我的照片](ccc.jpg)
+
+
 
 > Markdown使用電郵用字元「>」來引用。
 
