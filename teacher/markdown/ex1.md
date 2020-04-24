@@ -35,3 +35,15 @@
 > Markdown使用電郵用字元「>」來引用。
 
 行間<abbr title="Hypertext Markup Language">HTML</abbr>亦受支援。
+
+
+## 表格
+
+章節 | 內容
+--------|-------
+第一章   | HTML
+第二章   | CSS
+第三章   | JavaScript
+
+
+
