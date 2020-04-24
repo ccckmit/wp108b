@@ -30,6 +30,7 @@
 
 ![我的照片](ccc.jpg)
 
+<img src="ccc.jpg" style="width:300px;"/>
 
 
 > Markdown使用電郵用字元「>」來引用。
